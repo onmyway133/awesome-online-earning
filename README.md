@@ -9,7 +9,7 @@
 - [Ruby](https://www.ruby.com/careers/) Call and talk to a live Virtual Receptionist
 - [Smith AI](https://smith.ai/careers) Answering calls and/or web chats for a variety of different businesses and professionals.
 
-## Content
+## Content creation
 
 - [Youtube](https://www.youtube.com/)
 
