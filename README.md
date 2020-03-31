@@ -109,7 +109,7 @@ Sell domain
 - [Text Master](https://www.textmaster.com/translation-services/) The Professional Translation Agency Available Online
 - [Vertialize It](https://www.verbalizeit.com/become-a-translator/) Interpret, translate or transcribe at your convenience – anytime, anywhere
 
-## Tutor
+## Tutoring
 
 - [Learn 4 good](https://www.learn4good.com/jobs/) Good things happen daily
 - [Verbal planet](https://www.verbalplanet.com/tutorhome.asp) Connect with a whole world of new teaching opportunities
