@@ -5,10 +5,12 @@
 ## Ad
 
 - [Google Adsense](https://www.google.com/adsense/start)
-- [Ezoic](https://www.ezoic.com/)
-- [Media](https://www.media.net/)
+- [Ezoic](https://www.ezoic.com/) Automate multivariate ad position tests to optimize ad earnings
+- [Media](https://www.media.net/) Tap into one of the largest pools of advertisers in the world and let our ads maximize your monetization.
 
 ## Affiliate
+
+- [Amazon affiliate](https://affiliate-program.amazon.com/) Choose from over a million products to advertise to your customers
 
 ## Content creation
 
@@ -24,32 +26,56 @@
 
 - [Etsy](https://www.etsy.com/) If it’s handcrafted, vintage, custom, or unique, it’s on Etsy.
 
+## Design
+
+- [99designs](https://99designs.no/) Get a custom design you’ll love with our global creative platform.
+
+## Delivery
+
+- [Doordash](https://www.doordash.com/) Get it delivered right to your door. Or, try Pickup on your way home. It’s mealtime on your time
+- []()
+
 ## Distribution
 
 - [Gumroad](https://gumroad.com/) Gumroad helps creators do more of what they love.
 
 ## Email marketing
 
-- [Mailchimp](https://mailchimp.com/)
-- [Aweber](https://www.aweber.com/)
-- [ConvertKit](https://convertkit.com/)
+- [Mailchimp](https://mailchimp.com/) From email to postcards, websites to automations, our all-in-one Marketing Platform is perfect for powering growing businesses like yours.
+- [Aweber](https://www.aweber.com/) Build your lists, send emails and connect with your audience faster than ever before.
+- [ConvertKit](https://convertkit.com/) Connect with your audience. Make a living doing work you love.
 
 ## Freelancing
 
 - [Upwork](https://www.upwork.com/) Upwork expertly connects professionals and agencies to businesses seeking specialized talent.
-- [Freelancer](https://www.freelancer.com/)
-- [Fiverr](https://www.fiverr.com/)
-- [Guru](https://www.guru.com/)
+- [Freelancer](https://www.freelancer.com/) Find The Perfect Freelance Services For Your Business
+- [Fiverr](https://www.fiverr.com/) Hire expert freelancers for any job, online
+- [Guru](https://www.guru.com/) Find & Hire Expert Freelancers
+- [Indeed](https://indeed.com/) Find jobs online
+- [Flexijobs](https://www.flexjobs.com/) Discover a new world with only the best remote and flexible jobs!
 
-## Photography
+## Narrate audiobook
+
+- [ACX](https://www.acx.com/help/narrators/200484550) Choose the books you want to audition for
+
+## Stock footage
+
+Photo
 
 - [Shutterstock](https://submit.shutterstock.com) Share your work and start earning
 - [iStock Photo](https://www.istockphoto.com/) Discover royalty-free images, illustrations and videos that will make you stand out.
+- [500px](https://500px.com/) Discover and share the world’s best photos
 
 Video
 
-- [Videohive](https://videohive.net/)
-- [Dissolve](https://dissolve.com/)
+- [Videohive](https://videohive.net/) Video effects and stock footage
+- [Dissolve](https://dissolve.com/) Exceptional stock footage and photography
+
+## Survey
+
+- [Swagbucks](https://www.swagbucks.com/) Earn points when you shop at your favorite retailers, watch entertaining videos, search the web, answer surveys and find great deals
+- [Survey junkie](https://www.surveyjunkie.com/) Take surveys. Get PAID.
+- [Indox dollars](https://www.inboxdollars.com/) Earn Cash for Your Everyday Online Activities
 
 ## Testing
 
@@ -61,14 +87,19 @@ Video
 
 ## Trade
 
+Sell games
+
+- [Sell my app](https://www.sellmyapp.com/downloads/subcategory/games/) App and game template
+
 Sell website
 
-- [Empire Flippers](https://empireflippers.com/marketplace/)
-- [Flippa](https://flippa.com/websites)
+- [Empire Flippers](https://empireflippers.com/marketplace/) Explore an exclusive selection of established websites for sale.
+- [Flippa](https://flippa.com/websites) The #1 marketplace for buying and selling websites
 
 Sell domain
 
-- [Just Dropped](https://justdropped.com/)
+- [Just Dropped](https://justdropped.com/) Deleted domains daily
+- [Godaddy](https://godaddy.com/) GoDaddy is the world’s largest and trusted domain registrar
 
 ## Translation
 
@@ -84,6 +115,8 @@ Sell domain
 - [Verbal planet](https://www.verbalplanet.com/tutorhome.asp) Connect with a whole world of new teaching opportunities
 - [Chegg](https://www.chegg.com/tutors/become-a-tutor/) Start tutoring online with Chegg Tutors
 
-## Virtual assistant
+## How to
 
-- 
+- [35+ Best Ways to Make Money Online in 2020](https://www.hostinger.com/tutorials/make-money-online/)
+- [Modern day jobs](https://moderndayjobs.com/)
+- [Millenial money](https://millennialmoney.com/online-jobs/)
