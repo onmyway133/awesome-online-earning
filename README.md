@@ -58,6 +58,19 @@
 
 - [ACX](https://www.acx.com/help/narrators/200484550) Choose the books you want to audition for
 
+## Research
+
+- [Ask wonder](https://askwonder.com/) Just let us know what you're working on and within minutes we'll scale up a research team to get at the heart of what you're looking for.
+
+## Review
+
+- [Slice the pie](https://www.slicethepie.com/) Get paid for your opinion
+- [Qmee](https://www.qmee.com/) Earn real cash when you take surveys
+
+## Small task
+
+- [Task rabbit](https://www.taskrabbit.com/) Help around the home, at your fingertips
+
 ## Stock footage
 
 Photo
@@ -111,9 +124,14 @@ Sell domain
 
 ## Tutoring
 
+- [Tutor](https://tutor.com/) Online Tutoring, Homework Help and Test Prep in Math, Science, and English
 - [Learn 4 good](https://www.learn4good.com/jobs/) Good things happen daily
 - [Verbal planet](https://www.verbalplanet.com/tutorhome.asp) Connect with a whole world of new teaching opportunities
 - [Chegg](https://www.chegg.com/tutors/become-a-tutor/) Start tutoring online with Chegg Tutors
+
+English
+
+- [Vip kid](https://www.vipkid.com/) VIPKid is an online education company that connects students and teachers globally through one-to-one personalized English language classes.
 
 ## How to
 
