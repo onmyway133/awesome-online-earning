@@ -78,8 +78,6 @@ Video
 
 ## Tutor
 
-Kid
-
 - [Learn 4 good](https://www.learn4good.com/jobs/) Good things happen daily
 - [Verbal planet](https://www.verbalplanet.com/tutorhome.asp) Connect with a whole world of new teaching opportunities
 - [Chegg](https://www.chegg.com/tutors/become-a-tutor/) Start tutoring online with Chegg Tutors
