@@ -51,15 +51,6 @@ Video
 - [Videohive](https://videohive.net/)
 - [Dissolve](https://dissolve.com/)
 
-## Sell website
-
-- [Empire Flippers](https://empireflippers.com/marketplace/)
-- [Flippa](https://flippa.com/websites)
-
-## Sell domain
-
-- [Just Dropped](https://justdropped.com/)
-
 ## Testing
 
 - [Teston](https://teston.io/en/) Remote, unmoderated user testing. Video results from users anywhere, anytime
@@ -67,6 +58,17 @@ Video
 - [Userlytics](https://www.userlytics.com/tester-signup) Get PAID to test websites & apps!
 - [Testbirds](https://www.testbirds.com/) Crowdtesting: QA, Usability & UX testing for your digital product
 - [Usertesting](https://www.usertesting.com/be-a-user-tester) Earn up to $60 per test
+
+## Trade
+
+Sell website
+
+- [Empire Flippers](https://empireflippers.com/marketplace/)
+- [Flippa](https://flippa.com/websites)
+
+Sell domain
+
+- [Just Dropped](https://justdropped.com/)
 
 ## Translation
 
