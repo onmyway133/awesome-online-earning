@@ -18,6 +18,15 @@
 - [Clickbank](https://www.clickbank.com/affiliate-network/) ClickBank pays some of the highest commissions out there because we know that quality marketing is worth paying for
 - [Share a sale](https://account.shareasale.com/index.cfm) ShareASale has been in business for 20 years, exclusively as an Affiliate Marketing Network. Our technology receives accolades for speed, efficiency, and accuracy
 
+## Bookkeeper
+
+> Many companies hire remote bookkeepers to manage various accounting or clerical tasks. If you’re interested in becoming an online bookkeeper, there are resources that can help you find jobs and keep them.
+
+- [Book minders](https://bookminders.com/) Bookminders provides timely, accurate and cost effective bookkeeping for small businesses and nonprofits
+- [Click accounts](http://www.clickaccounts.com/) ClickAccounts is the leading provider of Tax Outsourcing Services and back-office Bookkeeping Services
+- [Bid a wiz](http://www.bidawiz.com/) Trusted advisors
+- [Bench](https://bench.co/) Get a professional bookkeeper at a fraction of the cost of a bookkeeping firm, and powerful online accounting software with zero learning curve.
+
 ## Content creation
 
 - [Youtube](https://www.youtube.com/) Watch videos and ads
