@@ -17,6 +17,7 @@
 - [Flex offers](https://www.flexoffers.com/) Each of our skilled managers is experienced in affiliate marketing and effectively promoting campaigns.
 - [Clickbank](https://www.clickbank.com/affiliate-network/) ClickBank pays some of the highest commissions out there because we know that quality marketing is worth paying for
 - [Share a sale](https://account.shareasale.com/index.cfm) ShareASale has been in business for 20 years, exclusively as an Affiliate Marketing Network. Our technology receives accolades for speed, efficiency, and accuracy
+- [Awin](https://www.awin.com/gb/publishers) Create long-lasting, profitable partnerships by promoting products and services to your audience.
 
 Web services
 
@@ -42,7 +43,7 @@ Teaching
 
 ## Content creation
 
-- [Youtube](https://www.youtube.com/) Watch videos and ads
+- [Youtube](https://www.youtube.com/creators/benefits/) We recognize the amount of effort and dedication creators like you put into their channels
 - [Udemy](https://www.udemy.com/) Online courses
 - [Skillshare](https://www.skillshare.com/) Join Skillshare to watch, play, learn, make, and discover.
 
@@ -155,6 +156,8 @@ Photo
 - [Shutterstock](https://submit.shutterstock.com) Share your work and start earning
 - [iStock Photo](https://www.istockphoto.com/) Discover royalty-free images, illustrations and videos that will make you stand out.
 - [500px](https://500px.com/) Discover and share the world’s best photos
+- [Adobe stock](https://contributor.stock.adobe.com/) Sell your content to the world's largest creative community
+- [Getty images](https://www.gettyimages.co.uk/workwithus) When customers find content they want from our sites, they purchase a license that allows them to download the file
 
 Video
 
@@ -209,11 +212,15 @@ Sell stuff
 
 - [Decluttr](https://www.decluttr.com/) The Smart Way to Buy and Sell Tech
 - [Vinted](https://www.vinted.co.uk/) Sold! Box your item, print your prepaid shipping label, and pop to the drop-off point within 5 days.
+- [Amazon seller](https://www.amazon.co.uk/gp/seller/sell-your-stuff.html) Earn cash by selling your stuff on Amazon.co.uk. It's easy, it's fast, and it doesn't cost you a penny until your item sells.
+- [Preloved](https://www.preloved.co.uk/) Preloved has no listing fees, no selling fees and you can upgrade your account to get extra benefits for as little as £5 a year.
+- [Music magpie](https://www.musicmagpie.co.uk/) musicMagpie is the easiest way to declutter and get cash for your unwanted stuff!
 
 Sell domain
 
 - [Just Dropped](https://justdropped.com/) Deleted domains daily
 - [Godaddy](https://godaddy.com/) GoDaddy is the world’s largest and trusted domain registrar
+- [Sedo](https://sedo.com/us/) The best domains for the brightest of ideas
 
 ## Translation
 
@@ -232,6 +239,7 @@ Sell domain
 - [Verbal planet](https://www.verbalplanet.com/tutorhome.asp) Connect with a whole world of new teaching opportunities
 - [Chegg](https://www.chegg.com/tutors/become-a-tutor/) Start tutoring online with Chegg Tutors
 - [Skooli](https://www.skooli.com/) Instant online math tutoring - anytime, anywhere
+- [Super prof](https://www.superprof.co.uk/) Online tutoring across the world by webcam
 
 English
 
@@ -256,3 +264,4 @@ English
 - [35+ Best Ways to Make Money Online in 2020](https://www.hostinger.com/tutorials/make-money-online/)
 - [Modern day jobs](https://moderndayjobs.com/)
 - [Millenial money](https://millennialmoney.com/online-jobs/)
+- [40 easy ways to make money quickly](https://www.savethestudent.org/make-money/10-quick-cash-injections.html)
