@@ -75,6 +75,9 @@ Casual
 - [One space](https://work.onespace.com/) writing and editting jobs
 - [Babble type](http://babbletype.com/apply-for-work/) Babbletype is always looking for new transcriptionists, editors and translators to add to our team, but we are very selective. 
 - [Gramlee](https://www.gramlee.com/jobs.html) We are always looking for exceptional editors!
+- [Reedsy](https://reedsy.com/join-our-community) We’re helping freelancers meet clients at every stage of the publishing process.
+- [Lifetips](https://www.lifetips.com/about/join-team-editorial.html) If you’re the passionate editor who knows how to turn complex problems into simple, understandable tips that guide, clarify, connect, enlighten and most importantly entertain readers, we’d love to hear from you
+- [Polish paper](https://polishedpaper.com/editor/register) Polished Paper has opportunities for exceptional editors
 
 ## Research
 
