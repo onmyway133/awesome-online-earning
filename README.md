@@ -27,6 +27,7 @@
 
 - [Ruby](https://www.ruby.com/careers/) Call and talk to a live Virtual Receptionist
 - [Smith AI](https://smith.ai/careers) Answering calls and/or web chats for a variety of different businesses and professionals.
+- [Live ops](https://www.liveops.com/) It’s a network of virtual, on-demand agents delivering unmatched scale and flexibility.
 
 ## Craft
 
@@ -93,12 +94,15 @@ Casual
 
 - [Slice the pie](https://www.slicethepie.com/) Get paid for your opinion
 - [Qmee](https://www.qmee.com/) Earn real cash when you take surveys
+- [Review](https://review.hunt.town/) Simple quests, get paid
+- [Loginhood](https://loginhood.io/) Your data your dollars
 
 ## Small task
 
 - [Task rabbit](https://www.taskrabbit.com/) Help around the home, at your fingertips
 - [Clickworker](https://www.clickworker.com/) We support you with our micro-tasking industry solutions and provide thousands of data sets.
 - [Tag works](https://tag.works/) Label important information in documents
+- [Wonolo](https://www.wonolo.com/) Let Wonolo help fill your next shift from an on-demand pool of high-quality, local workers. Pricing is always transparent.
 
 ## Stock footage
 
@@ -120,6 +124,12 @@ Video
 - [Indox dollars](https://www.inboxdollars.com/) Earn Cash for Your Everyday Online Activities
 - [Survey savvy](https://www.surveysavvy.com/) Earn cash rewards simply by installing our SavvyConnect app on your computer, smartphone, and/or tablet. Get more with each device!
 - [Ysense](https://www.ysense.com/) ySense is a global online community with multiple earning options. Join now and start earning with paid online surveys, cash offers
+- [Point club](https://www.pointclub.com/home) We’re recruiting heroes like YOU to take fun surveys, participate in polls, and save the world!
+- [Survey time](https://surveytime.io/) Get Instantly Rewarded with $1 for every survey you complete
+- [My points](https://www.mypoints.com/) Earn Points by shopping at your favorite stores
+- [Cashcrate](https://www.cashcrate.com/reviews/paid-surveys/) Get paid for your opinion with a list of rated and vetted paid survey providers
+- [Survey police](https://www.surveypolice.com) list of survey websites
+- [Toluna](https://toluna.com) Share your opinion by answering our surveys, inspire change in real time
 
 ## Tech help
 
@@ -134,6 +144,10 @@ Video
 - [Testbirds](https://www.testbirds.com/) Crowdtesting: QA, Usability & UX testing for your digital product
 - [Usertesting](https://www.usertesting.com/be-a-user-tester) Earn up to $60 per test
 - [Userbrain](https://userbrain.net/) Watch videos of real people interacting with your website
+- [What user do](https://whatusersdo.com/) Our platform helps you understand how your customers engage with your website or product
+- [Try my UI](https://www.trymyui.com/) Choose from a wide array of demographic factors to find the right users.
+- [User zoom](https://www.userzoom.com/) Find the right users with automated, flexible participant sourcing
+- [Validately](https://validately.com/) Thousands of UX teams use Validately to conduct 2x the user testing in 50% less time.
 
 ## Trade
 
@@ -177,6 +191,14 @@ Sell domain
 English
 
 - [Vip kid](https://www.vipkid.com/) VIPKid is an online education company that connects students and teachers globally through one-to-one personalized English language classes.
+
+## Virtual assistant
+
+> A virtual assistant is a remote office assistant. Such assistants can provide the same administrative, clerical, and support services to your business like a secretary
+
+- [Time etc](https://web.timeetc.com/virtualassistant/index.php) Offer multi-talented and well-educated U.S-based Virtual Assistants with an average of 12 years experience 
+- [Belay](https://belaysolutions.com/) A Virtual Support Team Can Transform Your Work Day
+- [Red butler](https://www.redbutler.com/) Gain access to a full time administrative employee for a fraction of the cost.
 
 ## Writing
 
