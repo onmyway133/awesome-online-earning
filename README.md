@@ -62,6 +62,13 @@
 - [Indeed](https://indeed.com/) Find jobs online
 - [Flexijobs](https://www.flexjobs.com/) Discover a new world with only the best remote and flexible jobs!
 
+## Juror
+
+- [Online verdict](https://www.onlineverdict.com/jurors/) Get paid to review and respond to legal cases.
+- [Virtual jury](http://www.virtualjury.com/) What will jurors think, feel and believe about your case?
+- [E jury](http://www.ejury.com/) Our online Mock Juries and Focus Groups allow large groups of people to help attorneys
+determine case value, develop case themes
+
 ## Narrate audiobook
 
 - [ACX](https://www.acx.com/help/narrators/200484550) Choose the books you want to audition for
@@ -91,6 +98,7 @@ Casual
 
 - [Ask wonder](https://askwonder.com/) Just let us know what you're working on and within minutes we'll scale up a research team to get at the heart of what you're looking for.
 - [Pinecone reserach](https://members.pineconeresearch.com/#/Homepage) Be the first to test and review emerging concepts for a variety of products and services
+- [Vindale](https://www.vindale.com/v/index.jsp) Vindale is the secure, reliable and free survey site for anyone who wants to earn money online.
 
 ## Review
 
