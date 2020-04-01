@@ -42,6 +42,19 @@ Teaching
 - [Bid a wiz](http://www.bidawiz.com/) Trusted advisors
 - [Bench](https://bench.co/) Get a professional bookkeeper at a fraction of the cost of a bookkeeping firm, and powerful online accounting software with zero learning curve.
 
+## Coaching
+
+- [Clarity](https://clarity.fm/) Browse our community of experts to find the right one for you.
+- [Coach me](https://www.coach.me/) Instant coaching for any goal
+
+Answer
+
+- [Just answer](https://www.justanswer.com/) Ask an expert and get answers
+
+Plan
+
+- [Teachers pay teachers](https://www.teacherspayteachers.com/) Explore tips, strategies frome expert educators
+
 ## Content creation
 
 - [Youtube](https://www.youtube.com/creators/benefits/) We recognize the amount of effort and dedication creators like you put into their channels
@@ -54,13 +67,10 @@ Teaching
 - [Smith AI](https://smith.ai/careers) Answering calls and/or web chats for a variety of different businesses and professionals.
 - [Live ops](https://www.liveops.com/) It’s a network of virtual, on-demand agents delivering unmatched scale and flexibility.
 
-## Craft
-
-- [Etsy](https://www.etsy.com/) If it’s handcrafted, vintage, custom, or unique, it’s on Etsy.
-
 ## Design
 
 - [99designs](https://99designs.no/) Get a custom design you’ll love with our global creative platform.
+- [Society6](https://society6.com/) Society6 is home to a thriving community of independent artists worldwide, each with their own unique designs
 
 Tshirt
 
@@ -90,6 +100,7 @@ Tshirt
 - [Guru](https://www.guru.com/) Find & Hire Expert Freelancers
 - [Indeed](https://indeed.com/) Find jobs online
 - [Flexijobs](https://www.flexjobs.com/) Discover a new world with only the best remote and flexible jobs!
+- [Solid gigs](https://solidgigs.com/) Trade your worst clients for some of the best companies in the world with our freelance job list, community, & course library.
 
 ## Juror
 
@@ -97,6 +108,10 @@ Tshirt
 - [Virtual jury](http://www.virtualjury.com/) What will jurors think, feel and believe about your case?
 - [E jury](http://www.ejury.com/) Our online Mock Juries and Focus Groups allow large groups of people to help attorneys
 determine case value, develop case themes
+
+## Naming
+
+- [Squad help](https://www.squadhelp.com/) Launch a naming contest to engage hundreds of naming experts as you’re guided through our agency-level naming process
 
 ## Narrate audiobook
 
@@ -128,6 +143,11 @@ Casual
 - [Ask wonder](https://askwonder.com/) Just let us know what you're working on and within minutes we'll scale up a research team to get at the heart of what you're looking for.
 - [Pinecone reserach](https://members.pineconeresearch.com/#/Homepage) Be the first to test and review emerging concepts for a variety of products and services
 - [Vindale](https://www.vindale.com/v/index.jsp) Vindale is the secure, reliable and free survey site for anyone who wants to earn money online.
+- [My achievement](https://www.myachievement.com/) Choose from 20+ popular apps and start earning points for activities such as walking, meditating, logging meals, and answering questions about yourself.
+
+## Remote
+
+- [Remote OK](https://remoteok.io/) Get a remote job you can do everywhere
 
 ## Review
 
@@ -135,6 +155,8 @@ Casual
 - [Qmee](https://www.qmee.com/) Earn real cash when you take surveys
 - [Review](https://review.hunt.town/) Simple quests, get paid
 - [Loginhood](https://loginhood.io/) Your data your dollars
+- [Modern mom](https://www.modernmom.com/Mom-Influencer-Program) Do you want to expand your readership and provide your audience with new content?
+- [Famebit](https://famebit.com/creators) Finding Paid Sponsorships Has Never Been Easier
 
 ## SEO
 
@@ -202,6 +224,7 @@ Video
 - [User zoom](https://www.userzoom.com/) Find the right users with automated, flexible participant sourcing
 - [Validately](https://validately.com/) Thousands of UX teams use Validately to conduct 2x the user testing in 50% less time.
 - [U test](https://www.utest.com/) Get paid to shape the digital landscape
+- [Testing time](https://www.testingtime.com/en/) For usability tests, focus groups, interviews, surveys and more.
 
 ## Trade
 
@@ -229,6 +252,10 @@ Sell domain
 - [Just Dropped](https://justdropped.com/) Deleted domains daily
 - [Godaddy](https://godaddy.com/) GoDaddy is the world’s largest and trusted domain registrar
 - [Sedo](https://sedo.com/us/) The best domains for the brightest of ideas
+
+Sell craft
+
+- [EtsyIf it’s handcrafted, vintage, custom, or unique, it’s on Etsy.](https://www.etsy.com/)
 
 ## Translation
 
@@ -260,6 +287,13 @@ English
 - [Time etc](https://web.timeetc.com/virtualassistant/index.php) Offer multi-talented and well-educated U.S-based Virtual Assistants with an average of 12 years experience 
 - [Belay](https://belaysolutions.com/) A Virtual Support Team Can Transform Your Work Day
 - [Red butler](https://www.redbutler.com/) Gain access to a full time administrative employee for a fraction of the cost.
+
+## Voice
+
+> There are tons of people looking to pay for quality voice overs for their corporate videos, animation series, or educational videos
+
+- [The voice realm](https://www.thevoicerealm.com/voice-over-jobs-online.php) The Voice Realm is the world's biggest network of casting websites for advertisers, producers, and creatives to source world class voices at affordable rates.
+- [Voices](https://www.voices.com/) Sign up in seconds. Post your job for free. Access the world's best professional voice actors.
 
 ## Writing
 
