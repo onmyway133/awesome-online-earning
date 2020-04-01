@@ -97,12 +97,24 @@ Casual
 - [Review](https://review.hunt.town/) Simple quests, get paid
 - [Loginhood](https://loginhood.io/) Your data your dollars
 
+## SEO
+
+- [Search engine land](https://searchengineland.com/) Learn about SEO campaign
+- [Search engine round table](https://www.seroundtable.com/) Discuss SEO topics
+- [Moz](https://moz.com/) SEO software and data to help you increase traffic, rankings, and visibility in search results.
+
 ## Small task
 
 - [Task rabbit](https://www.taskrabbit.com/) Help around the home, at your fingertips
 - [Clickworker](https://www.clickworker.com/) We support you with our micro-tasking industry solutions and provide thousands of data sets.
 - [Tag works](https://tag.works/) Label important information in documents
 - [Wonolo](https://www.wonolo.com/) Let Wonolo help fill your next shift from an on-demand pool of high-quality, local workers. Pricing is always transparent.
+
+## Social media management
+
+> Social media managers are in charge of representing a company across social channels as the sole voice of the brand
+
+- [Social media manager](https://sproutsocial.com/glossary/social-media-manager/)
 
 ## Stock footage
 
