@@ -20,8 +20,9 @@
 
 ## Content creation
 
-- [Youtube](https://www.youtube.com/)
+- [Youtube](https://www.youtube.com/) Watch videos and ads
 - [Udemy](https://www.udemy.com/) Online courses
+- [Skillshare](https://www.skillshare.com/) Join Skillshare to watch, play, learn, make, and discover.
 
 ## Customer service
 
@@ -89,6 +90,7 @@ Casual
 ## Research
 
 - [Ask wonder](https://askwonder.com/) Just let us know what you're working on and within minutes we'll scale up a research team to get at the heart of what you're looking for.
+- [Pinecone reserach](https://members.pineconeresearch.com/#/Homepage) Be the first to test and review emerging concepts for a variety of products and services
 
 ## Review
 
@@ -160,6 +162,7 @@ Video
 - [Try my UI](https://www.trymyui.com/) Choose from a wide array of demographic factors to find the right users.
 - [User zoom](https://www.userzoom.com/) Find the right users with automated, flexible participant sourcing
 - [Validately](https://validately.com/) Thousands of UX teams use Validately to conduct 2x the user testing in 50% less time.
+- [U test](https://www.utest.com/) Get paid to shape the digital landscape
 
 ## Trade
 
