@@ -58,6 +58,24 @@
 
 - [ACX](https://www.acx.com/help/narrators/200484550) Choose the books you want to audition for
 
+## Proof reading
+
+Professional
+
+- [Scribbr](https://jobs.scribbr.com/) Freelance editor
+- [Edit911](https://edit911.com/employment/) Are you a PhD? If so, you may apply here.
+- [Edit fast](https://editfast.com/english/editjobs.htm) Are you a skilled editor, proofreader, writer?
+- [Cactus global](https://www.cactusglobal.com/careers/current-openings/freelance-specialist-editors) We’re currently looking for specialist freelance copyeditors and substantive editors.
+- [Enago](https://www.enago.com/careers/current-openings.htm#contentanchor) We are looking for freelance editors in the following subject domains
+- [English tracker](https://www.englishtrackers.com/about-us/join-us) Are you looking for online work as a professional academic editor?
+
+Casual
+
+- [Prompt](https://prompt.com/become-essay-specialist/) Become an Essay Specialist
+- [One space](https://work.onespace.com/) writing and editting jobs
+- [Babble type](http://babbletype.com/apply-for-work/) Babbletype is always looking for new transcriptionists, editors and translators to add to our team, but we are very selective. 
+- [Gramlee](https://www.gramlee.com/jobs.html) We are always looking for exceptional editors!
+
 ## Research
 
 - [Ask wonder](https://askwonder.com/) Just let us know what you're working on and within minutes we'll scale up a research team to get at the heart of what you're looking for.
@@ -70,6 +88,7 @@
 ## Small task
 
 - [Task rabbit](https://www.taskrabbit.com/) Help around the home, at your fingertips
+- [Clickworker](https://www.clickworker.com/) We support you with our micro-tasking industry solutions and provide thousands of data sets.
 
 ## Stock footage
 
@@ -108,6 +127,10 @@ Sell website
 
 - [Empire Flippers](https://empireflippers.com/marketplace/) Explore an exclusive selection of established websites for sale.
 - [Flippa](https://flippa.com/websites) The #1 marketplace for buying and selling websites
+
+Sell stuff
+
+- [Decluttr](https://www.decluttr.com/) The Smart Way to Buy and Sell Tech
 
 Sell domain
 
