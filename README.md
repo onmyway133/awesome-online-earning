@@ -18,6 +18,19 @@
 - [Clickbank](https://www.clickbank.com/affiliate-network/) ClickBank pays some of the highest commissions out there because we know that quality marketing is worth paying for
 - [Share a sale](https://account.shareasale.com/index.cfm) ShareASale has been in business for 20 years, exclusively as an Affiliate Marketing Network. Our technology receives accolades for speed, efficiency, and accuracy
 
+Web services
+
+- [Bluehost](https://www.bluehost.com/affiliates) Refer visitors to Bluehost and earn $65 for each qualified sign-up.
+It couldn't be more simple.
+- [Siteground](https://www.siteground.com/affiliates) 21+ Sales /mo Custom Commissions
+
+Travel
+
+- [Agoda](https://partners.agoda.com/) Each $200 booking at a commission rate of 5% earns you $10 in commissions
+- [Trip advisor](https://www.tripadvisor.com/affiliates) Link to specific hotels on Tripadvisor. Earn at least 50% of the commission we receive from our hotel booking partners
+
+Teaching
+
 ## Bookkeeper
 
 > Many companies hire remote bookkeepers to manage various accounting or clerical tasks. If you’re interested in becoming an online bookkeeper, there are resources that can help you find jobs and keep them.
