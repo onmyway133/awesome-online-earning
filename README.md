@@ -18,6 +18,7 @@
 - [Clickbank](https://www.clickbank.com/affiliate-network/) ClickBank pays some of the highest commissions out there because we know that quality marketing is worth paying for
 - [Share a sale](https://account.shareasale.com/index.cfm) ShareASale has been in business for 20 years, exclusively as an Affiliate Marketing Network. Our technology receives accolades for speed, efficiency, and accuracy
 - [Awin](https://www.awin.com/gb/publishers) Create long-lasting, profitable partnerships by promoting products and services to your audience.
+- [Skimlinks](https://skimlinks.com/) Skimlinks affiliates product links from your commerce content. Automatically.
 
 Web services
 
@@ -60,6 +61,11 @@ Teaching
 ## Design
 
 - [99designs](https://99designs.no/) Get a custom design you’ll love with our global creative platform.
+
+Tshirt
+
+- [Threadless](https://www.threadless.com/) You are Threadless. You make the ideas, you pick what we sell, you're why we exist.
+- [Tee spring](https://teespring.com/) Design your shirt, set a price, add a goal and start selling. Teespring handles the rest - production, shipping, and customer service - and you keep the profit!
 
 ## Delivery
 
@@ -215,6 +221,8 @@ Sell stuff
 - [Amazon seller](https://www.amazon.co.uk/gp/seller/sell-your-stuff.html) Earn cash by selling your stuff on Amazon.co.uk. It's easy, it's fast, and it doesn't cost you a penny until your item sells.
 - [Preloved](https://www.preloved.co.uk/) Preloved has no listing fees, no selling fees and you can upgrade your account to get extra benefits for as little as £5 a year.
 - [Music magpie](https://www.musicmagpie.co.uk/) musicMagpie is the easiest way to declutter and get cash for your unwanted stuff!
+- [Zazzle](https://www.zazzle.com/) Looking through our marketplace, you'll find Designers selling their art,
+Makers showcasing their customizable products
 
 Sell domain
 
@@ -265,3 +273,4 @@ English
 - [Modern day jobs](https://moderndayjobs.com/)
 - [Millenial money](https://millennialmoney.com/online-jobs/)
 - [40 easy ways to make money quickly](https://www.savethestudent.org/make-money/10-quick-cash-injections.html)
+- [70 Genius Ways How to Make Money Online Legitimately](https://www.ryrob.com/make-money-online/)
