@@ -157,6 +157,7 @@ Casual
 
 ## Remote
 
+- [OkJob](https://okjob.io/remote-4-day-work-week/) Job board for remote 4 day week jobs. 
 - [Remote OK](https://remoteok.io/) Get a remote job you can do everywhere
 
 ## Review
