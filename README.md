@@ -320,3 +320,4 @@ English
 - [Millenial money](https://millennialmoney.com/online-jobs/)
 - [40 easy ways to make money quickly](https://www.savethestudent.org/make-money/10-quick-cash-injections.html)
 - [70 Genius Ways How to Make Money Online Legitimately](https://www.ryrob.com/make-money-online/)
+- [Extra Hustles](https://extrahustles.com/) Side-hustle guides ranked by real effective hourly rate after hidden costs
