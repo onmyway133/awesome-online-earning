@@ -322,3 +322,4 @@ English
 - [70 Genius Ways How to Make Money Online Legitimately](https://www.ryrob.com/make-money-online/)
 - [Extra Hustles](https://extrahustles.com/) Side-hustle guides ranked by real effective hourly rate after hidden costs
 - [FIREnomics](https://firenomics.com/) FIRE math guides: savings rate, withdrawal strategy, and what early retirement actually costs
+- [GigFish](https://gig.fish/) Free directory of 600+ gig and side-hustle companies, from AI training and paid research studies to user testing, with worker reviews and checked pay details for popular platforms
