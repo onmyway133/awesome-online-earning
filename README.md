@@ -29,6 +29,7 @@
 - [Share a sale](https://account.shareasale.com/index.cfm) ShareASale has been in business for 20 years, exclusively as an Affiliate Marketing Network. Our technology receives accolades for speed, efficiency, and accuracy
 - [Awin](https://www.awin.com/gb/publishers) Create long-lasting, profitable partnerships by promoting products and services to your audience.
 - [Skimlinks](https://skimlinks.com/) Skimlinks affiliates product links from your commerce content. Automatically.
+- [Power CM Partners](https://partners.powercm-software.com/) Discover software campaigns, track attributed registrations and verified sales, and earn commissions.
 
 Web services
 
