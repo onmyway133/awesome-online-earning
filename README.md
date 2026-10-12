@@ -36,6 +36,7 @@ Web services
 - [Bluehost](https://www.bluehost.com/affiliates) Refer visitors to Bluehost and earn $65 for each qualified sign-up.
 It couldn't be more simple.
 - [Siteground](https://www.siteground.com/affiliates) 21+ Sales /mo Custom Commissions
+- [LaunchSpy](https://partners.launchspy.io/register) 40% recurring commission for as long as the customer stays subscribed, on a Meta ad, funnel and tool intelligence SaaS for course creators, coaches and agencies. Personal promo code plus a 60-day referral link.
 
 Travel
 
