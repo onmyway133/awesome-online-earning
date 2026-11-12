@@ -114,6 +114,7 @@ Tshirt
 - [Indeed](https://indeed.com/) Find jobs online
 - [Flexijobs](https://www.flexjobs.com/) Discover a new world with only the best remote and flexible jobs!
 - [Solid gigs](https://solidgigs.com/) Trade your worst clients for some of the best companies in the world with our freelance job list, community, & course library.
+- [chainjobs.app](https://chainjobs.app/) Free Web3 and freelance job board with direct chat and 0% platform commission
 
 ## Juror
 
