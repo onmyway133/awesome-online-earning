@@ -37,6 +37,7 @@ Web services
 It couldn't be more simple.
 - [Siteground](https://www.siteground.com/affiliates) 21+ Sales /mo Custom Commissions
 - [LaunchSpy](https://partners.launchspy.io/register) 40% recurring commission for as long as the customer stays subscribed, on a Meta ad, funnel and tool intelligence SaaS for course creators, coaches and agencies. Personal promo code plus a 60-day referral link.
+- [Genaya](https://affiliate.genaya.com/) 15% recurring commission, rising to 25%, for 12 months on every customer you refer to an AI platform that runs service businesses; 60-day cookie, monthly payouts
 
 Travel
 
