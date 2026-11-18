@@ -37,6 +37,7 @@ Web services
 It couldn't be more simple.
 - [Siteground](https://www.siteground.com/affiliates) 21+ Sales /mo Custom Commissions
 - [LaunchSpy](https://partners.launchspy.io/register) 40% recurring commission for as long as the customer stays subscribed, on a Meta ad, funnel and tool intelligence SaaS for course creators, coaches and agencies. Personal promo code plus a 60-day referral link.
+- [Waltrack](https://www.waltrack.dev/affiliates) 30% recurring commission for 12 months on a Walmart price tracker with price history and alerts on drops, target prices and restocks. 60-day cookie, monthly payouts from $50 by bank transfer, PayPal or Wise.
 
 Travel
 
