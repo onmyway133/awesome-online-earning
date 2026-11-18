@@ -161,6 +161,7 @@ Casual
 
 ## Remote
 
+- [FreshRemoteRoles](https://freshremoteroles.com/) Fully remote jobs in tech, design, marketing, support and more, straight from company career pages. No hybrid or onsite roles, free to browse.
 - [Jaabz](https://jaabz.com/) Tech jobs with visa sponsorship, relocation, and remote filters.
 - [OkJob](https://okjob.io/remote-4-day-work-week/) Job board for remote 4 day week jobs. 
 - [Remote OK](https://remoteok.io/) Get a remote job you can do everywhere
